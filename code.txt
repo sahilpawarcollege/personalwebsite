@@ -1,0 +1,45 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<title>...</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="./style.css" rel="preload">
+<link rel="stylesheet" href="style.css">
+<meta name="referrer" content="no-referrer" />
+<meta property="og:url" content="https://ayush.sh" />
+<meta property="og:title" content="ayush" />
+<meta property="og:description" content=":)" />
+<meta property="og:image" content="https://ayush.sh/" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@ayshptk">
+<meta name="twitter:title" content="ayush">
+<meta name="twitter:description" content=":)" />
+<meta name="twitter:image" content="https://ayush.sh/" />
+</head>
+<body>
+<h1 onclick="if (!window.__cfRLUnblockHandlers) return false; page('ayush')" class="x" data-cf-modified-7dcce128b9908a91b7ad776e-=""><span>Ayush Pathak</span></h1>
+<div id="page"></div>
+<br><br>emails at hey at ayush dot sh, jpegs ayushp dot eth
+<ul class="nav">
+<li class="li">
+<x class="external" onclick="if (!window.__cfRLUnblockHandlers) return false; url('https://raid.farm')" data-cf-modified-7dcce128b9908a91b7ad776e-="">wizardry</x>
+</li>
+<li class="li">
+<x class="external" onclick="if (!window.__cfRLUnblockHandlers) return false; url('https://twitter.com/ayshptk')" data-cf-modified-7dcce128b9908a91b7ad776e-="">thoughts</x>
+</li>
+<li class="li">
+<x class="internal" onclick="if (!window.__cfRLUnblockHandlers) return false; page('about')" data-cf-modified-7dcce128b9908a91b7ad776e-="">about</x>
+</li>
+<li class="li">
+<x class="internal" onclick="if (!window.__cfRLUnblockHandlers) return false; page('cool shit')" data-cf-modified-7dcce128b9908a91b7ad776e-="">cool shit</x>
+</li>
+</ul>
+<script type="7dcce128b9908a91b7ad776e-text/javascript">
+		let currentPage;
+	</script>
+<script src="./engine.js" type="7dcce128b9908a91b7ad776e-text/javascript">
+		<p>please enable js to view this site :)</p>
+	</script>
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="7dcce128b9908a91b7ad776e-|49" defer=""></script></html>
